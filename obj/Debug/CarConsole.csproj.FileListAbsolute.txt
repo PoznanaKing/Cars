@@ -1,0 +1,2 @@
+C:\Users\Tanulo\GitRepos\Cars\CarConsole\obj\Debug\CarConsole.csproj.AssemblyReference.cache
+C:\Users\Tanulo\GitRepos\Cars\CarConsole\obj\Debug\CarConsole.csproj.CoreCompileInputs.cache
